@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Day Final.unity
+    guid: e2b3e6e50e1ab394495df6c0588df8ef
+  - enabled: 1
+    path: Assets/Scenes/Night Final.unity
+    guid: 8457626b03052824eb0194b25b6c1e88
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
